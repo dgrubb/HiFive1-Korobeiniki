@@ -2,6 +2,8 @@
 
 Quick demonstration of the PWM module for [SiFive's FE310 chip](https://www.sifive.com/products/freedom-e310/), as used on the [HiFive1 dev board](https://www.sifive.com/products/hifive1/).
 
+[Demo video.](https://twitter.com/DavidGrubb18/status/829711362016342017)
+
 ## Usage
 
 Checkout the [freedom-e-sdk](https://github.com/sifive/freedom-e-sdk "Freedom Everywhere SDK") and move
