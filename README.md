@@ -19,3 +19,4 @@ dave@Prospero:~/freedom-e-sdk$ make upload PROGRAM=korobeiniki BOARD=freedom-e30
 
 + korobeiniki.c: Quick and dirty demonstration. Sets up PWM and adjusts frequency and duty cycle to generate musical tones.
 + Makefile: Adds functionality specific to this demo. Note that it's not standalone and relies on including other Makefiles from the SDK.
++ korobeiniki-demo-video.mp4: Shows the program in action with a corresponding oscilloscope trace.
