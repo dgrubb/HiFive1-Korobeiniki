@@ -4,6 +4,8 @@ Quick demonstration of the PWM module for [SiFive's FE310 chip](https://www.sifi
 
 [Demo video.](https://twitter.com/DavidGrubb18/status/829711362016342017)
 
+![Korobeiniki](./korobeiniki.png)
+
 ## Usage
 
 Checkout the [freedom-e-sdk](https://github.com/sifive/freedom-e-sdk "Freedom Everywhere SDK") and move
